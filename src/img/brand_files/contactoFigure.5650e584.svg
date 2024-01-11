@@ -1,0 +1,36 @@
+<svg width="458" height="413" viewBox="0 0 458 413" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M49.5134 24.7802H408.486V387.879H49.5134V24.7802Z" fill="url(#pattern0)"/>
+<g clip-path="url(#clip0)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.901 164.573H458V337.87H94.901V164.573Z" fill="url(#paint0_linear)"/>
+<path d="M310.104 237.851H444.807V316.692H310.104V237.851Z" fill="white" stroke="#006EF2" stroke-width="1.11767"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M309.545 237.292H445.366L377.455 276.177L309.545 237.292Z" fill="#5AAEF8"/>
+<rect x="119.658" y="193.456" width="90.7748" height="20.6306" fill="#E1E9F0"/>
+<rect opacity="0.35" x="119.658" y="292.483" width="53.6396" height="16.5045" fill="white"/>
+<rect opacity="0.35" x="119.658" y="230.591" width="165.045" height="12.3784" fill="white"/>
+<rect opacity="0.35" x="119.658" y="251.222" width="123.784" height="12.3784" fill="white"/>
+</g>
+<g clip-path="url(#clip1)">
+<path d="M0.412613 58.2018H362.686V230.674H0.412613V58.2018Z" fill="white" stroke="#006EF2" stroke-width="0.825225"/>
+<rect x="24.7567" y="86.672" width="90.7748" height="20.6306" fill="#E1E9F0"/>
+<rect x="24.7567" y="185.699" width="53.6396" height="16.5045" fill="#E1E9F0"/>
+<rect x="24.7567" y="123.807" width="165.045" height="12.3784" fill="#E1E9F0"/>
+<rect x="24.7567" y="144.438" width="123.784" height="12.3784" fill="#E1E9F0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M278.371 175.169L252.997 213.999L259.135 168.337L214.122 182.165L248.901 151.037L205.31 133.393L252.455 131.364L230.684 90.504L268.136 118.523L278.371 72.6719L288.606 118.523L326.057 90.504L304.286 131.364L351.431 133.393L307.841 151.037L342.619 182.165L297.606 168.337L303.744 213.999L278.371 175.169Z" fill="#006EF2"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.0137931" height="0.0136364">
+<use xlink:href="#image0" transform="scale(0.00229885)"/>
+</pattern>
+<linearGradient id="paint0_linear" x1="137.966" y1="737.3" x2="578.896" y2="704.921" gradientUnits="userSpaceOnUse">
+<stop stop-color="#006EF2"/>
+<stop offset="1" stop-color="#01AEFA"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="363.099" height="173.297" fill="white" transform="translate(94.901 164.573)"/>
+</clipPath>
+<clipPath id="clip1">
+<rect width="363.099" height="173.297" fill="white" transform="translate(0 57.7892)"/>
+</clipPath>
+<image id="image0" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAABGdBTUEAALGOfPtRkwAAADpJREFUCB1jvPX49X8xYX4GZPDyzQcGxg/ffv3HEGRkZGDCJggyAS4B1g5UCTMWLIEuCDKFCZsgSAIAKxMZVq7Z9g0AAAAASUVORK5CYII="/>
+</defs>
+</svg>

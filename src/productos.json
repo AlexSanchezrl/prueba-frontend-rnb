@@ -1,0 +1,112 @@
+[
+{
+    "id": 1,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Jordan",
+    "link": "Nike.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+    
+},
+{
+    "id": 2,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Jordan",
+    "link": "Nike.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+
+},
+{
+    "id": 3,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Adida",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+}
+,
+{
+    "id": 4,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Converse",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+},
+{
+    "id": 5,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Nike",
+    "link": "Nike.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+
+}
+,
+{
+    "id": 6,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Nike",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+},
+{
+    "id": 7,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Nike",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+},
+{
+    "id": 8,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Nike",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+},
+{
+    "id": 9,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Adida",
+    "link": "Nike.com",
+    "descripcion": "corporis commodi iure quia temporibus distinctio, cupiditate"
+
+},
+{
+    "id": 10,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "jordan",
+    "link": "Jordan.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+
+},
+{
+    "id": 11,
+    "popular": false,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Jordan",
+    "link": "Jordan.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+
+},
+{
+    "id": 12,
+    "popular": true,
+    "etiquetas": ["General", "Telefonos", "Deporte"],
+    "marca": "Nike",
+    "link": "Nike.com",
+    "descripcion": "Lorem ipsum dolor sit amet.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cursus sollicitudin consectetur pellentesque risus tellus aliquet. "
+
+}
+]
